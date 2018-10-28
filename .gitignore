@@ -1,0 +1,5 @@
+# Don't copy the model to repo.
+inception/
+
+# No pictures in repo.
+*.JPG
